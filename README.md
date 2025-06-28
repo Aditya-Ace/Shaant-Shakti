@@ -1,71 +1,57 @@
-# shaant-shakti-color-theme README
+# 🕉️ Shaant Shakti – VS Code Theme
 
-This is the README for your extension "shaant-shakti-color-theme". After writing up a brief description, we recommend including the following sections.
+A spiritually inspired **dark theme** that balances _inner peace_ with _raw coding power_ ⚡  
+**Shaant Shakti** is designed to keep you grounded, focused, and creatively fierce — just like Lord Shiva:
 
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+> _Calm like meditation, powerful like Tandav._
 
 ---
 
-## Following extension guidelines
+## ✨ Features
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+- 🌑 Deep black background for focused night sessions
+- 🔮 Mystic purple keywords with italics
+- 🟢 Peaceful green strings
+- 🔷 Calm blue functions
+- 🟠 Bold orange numbers & booleans
+- 🔘 Soft grey italic comments
+- 💻 Polished UI — activity bar, sidebar, tabs, status bar, scrollbars
+- 🎯 Perfect for devs who love Zen-mode, midnight coding, or spiritual power
 
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+---
 
-## Working with Markdown
+## 🌈 Preview
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Shaant Shakti Preview](images/image1.png)
+![Shaant Shakti Preview](images/image2.png)
+![Shaant Shakti Preview](images/image3.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+> _Coding becomes meditation..._
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 📦 Installation
 
-**Enjoy!**
+1. Go to Extensions (`Ctrl+Shift+X`) in VS Code
+2. Search for `Shaant Shakti`
+3. Click **Install**
+4. Press `Ctrl+K Ctrl+T` and choose **Shaant Shakti** from the theme list
+
+---
+
+## 🛠 Recommended Settings
+
+```json
+  "editor.fontSize": 15,
+  "editor.letterSpacing": 0.5,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.lineHeight": 42,
+  "editor.fontWeight": "600",
+  "editor.lineNumbers": "on",
+  "editor.wordBreak": "normal",
+  "editor.wordWrapColumn": 80,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "Fira Code Retina, MonoLisa, JetBrains Mono, Operator Mono Lig, JetBrains Mono NL, Consolas, Menlo, Cascadia Code, Ubuntu Mono, Source Code Pro, Fira Code, monospace",
+  "editor.fontLigatures": true,
+```
