@@ -1,0 +1,45 @@
+{
+  "name": "Shaant Shakti",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0B0C10",
+    "editor.foreground": "#F8F8F2",
+    "editorLineNumber.foreground": "#5C6370",
+    "editorCursor.foreground": "#C678DD",
+    "editor.lineHighlightBackground": "#1c1f26",
+    "editor.selectionBackground": "#3E4451",
+    "editor.inactiveSelectionBackground": "#2c313a80",
+    "editorIndentGuide.background1": "#2c313a",
+    "editorIndentGuide.activeBackground1": "#5C6370"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#5C6370", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": { "foreground": "#C678DD" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#98C379" }
+    },
+    {
+      "scope": ["variable", "identifier"],
+      "settings": { "foreground": "#E5C07B" }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": { "foreground": "#D19A66" }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "scope": ["invalid", "markup.error"],
+      "settings": { "foreground": "#E06C75" }
+    }
+  ]
+}
