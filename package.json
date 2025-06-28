@@ -19,6 +19,20 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aditya-Ace/Shaant-Shakti.git"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "shiva",
+    "spiritual",
+    "calm",
+    "power",
+    "shaant-shakti"
+  ],
   "scripts": {
     "vscode:prepublish": "npm run package",
     "compile": "npm run check-types && npm run lint && node esbuild.js",
