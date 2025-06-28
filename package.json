@@ -2,7 +2,7 @@
   "name": "shaant-shakti-color-theme",
   "displayName": "Shaant Shakti - Spiritual Dark Theme for Focused Coding",
   "description": "A spiritually inspired dark theme balancing inner peace and raw coding power. Shaant Shakti keeps you grounded, focused, and creatively fierce.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "shaant-shakti",
   "engines": {
     "vscode": "^1.101.0"
