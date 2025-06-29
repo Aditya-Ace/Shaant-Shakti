@@ -1,45 +1,66 @@
-# 🕉️ Shaant Shakti – VS Code Theme
+# 🕉️ Shaant Shakti – VS Code Theme Collection
 
-A spiritually inspired **dark theme** that balances _inner peace_ with _raw coding power_ ⚡  
-**Shaant Shakti** is designed to keep you grounded, focused, and creatively fierce — just like Lord Shiva:
+A spiritually inspired **dark theme collection** for Visual Studio Code — designed to help you code with _calm intensity_, just like Lord Shiva. Whether you're deep in Zen-mode or tapping into fiery focus, there's a Shaant Shakti theme to match your energy.
 
-> _Calm like meditation, powerful like Tandav._
-
----
-
-## ✨ Features
-
-- 🌑 Deep black background for focused night sessions
-- 🔮 Mystic purple keywords with italics
-- 🟢 Peaceful green strings
-- 🔷 Calm blue functions
-- 🟠 Bold orange numbers & booleans
-- 🔘 Soft grey italic comments
-- 💻 Polished UI — activity bar, sidebar, tabs, status bar, scrollbars
-- 🎯 Perfect for devs who love Zen-mode, midnight coding, or spiritual power
+> _"Calm like meditation, powerful like Tandav."_
 
 ---
 
-## 🌈 Preview
+## ✨ Themes Included
 
-![Shaant Shakti Preview](images/image1.png)
-![Shaant Shakti Preview](images/image2.png)
-![Shaant Shakti Preview](images/image3.png)
+### 🔹 Shaant Shakti (Default)
 
-> _Coding becomes meditation..._
+A classic dark mode with subtle contrast, clean syntax highlighting, and soothing color balance for long coding sessions.
+
+### 🌀 Shaant Shakti: Spirited Away Soul Drift
+
+Inspired by mystical flows of energy and cosmic dreams. Ideal for developers who love poetic hues, and a sense of timelessness.
+
+### ☕ Shaant Shakti: Mystic Roast
+
+A grounded, coffee-toned theme that blends vintage warmth with monk-like minimalism. Perfect for late-night coding over chai.
+
+### 🌪️ Shaant Shakti: Sand Storm
+
+The desert soul — dry winds, faded trails, and rugged clarity. This theme channels raw power with organic warmth and dusty contrast.
+
+---
+
+## 🌈 Previews
+
+> _Visuals vary slightly per variant._
+
+### Shaant Shakti
+
+![Shaant Shakti Preview](images/default.png)
+![Shaant Shakti Preview](images/default2.png)
+
+### Spirited Away Soul Drift
+
+![Soul Drift Preview](images/spirited.png)
+
+### Mystic Roast
+
+![Mystic Roast Preview](images/mystic.png)
+
+### Sand Storm
+
+![Sand Storm Preview](images/sand.png)
 
 ---
 
 ## 📦 Installation
 
-1. Go to Extensions (`Ctrl+Shift+X`) in VS Code
-2. Search for `Shaant Shakti`
+1. Open **Extensions** panel in VS Code (`Ctrl+Shift+X`)
+2. Search for **Shaant Shakti**
 3. Click **Install**
-4. Press `Ctrl+K Ctrl+T` and choose **Shaant Shakti** from the theme list
+4. Open command palette (`Ctrl+K Ctrl+T`) → Choose your favorite Shaant Shakti theme variant
 
 ---
 
-## 🛠 Recommended Settings
+## ⚙️ Recommended Settings
+
+Enhance your Shaant Shakti experience with these tweaks:
 
 ### Suggested Fonts
 
@@ -47,9 +68,10 @@ A spiritually inspired **dark theme** that balances _inner peace_ with _raw codi
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
-Make sure `"editor.fontLigatures": true` is enabled in your VS Code settings.
+### VS Code Settings
 
 ```json
+{
   "editor.fontSize": 15,
   "editor.letterSpacing": 0.5,
   "editor.tabCompletion": "on",
@@ -60,6 +82,39 @@ Make sure `"editor.fontLigatures": true` is enabled in your VS Code settings.
   "editor.wordBreak": "normal",
   "editor.wordWrapColumn": 80,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Fira Code Retina, MonoLisa, JetBrains Mono, Operator Mono Lig, JetBrains Mono NL, Consolas, Menlo, Cascadia Code, Ubuntu Mono, Source Code Pro, Fira Code, monospace",
-  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code Retina, JetBrains Mono, Cascadia Code, Operator Mono, monospace",
+  "editor.fontLigatures": true
+}
 ```
+
+---
+
+## 🧘 Why Shaant Shakti?
+
+Because we don’t just code — we **channel energy** into creation.
+
+These themes are handcrafted to:
+
+- ✅ Reduce eye strain with calm palettes
+- ✅ Preserve syntax clarity and dev flow
+- ✅ Match your coding _mood_, not just your monitor
+
+---
+
+## 🛠 Development & Feedback
+
+Developed with love and **Shakti** by [Aditya Tiwari](https://github.com/Aditya-Ace).
+
+GitHub Repo: [Shaant Shakti Themes](https://github.com/Aditya-Ace/Shaant-Shakti)
+Issues or suggestions? Open a GitHub issue or drop a PR 🙏
+
+---
+
+## 📜 License
+
+[MIT](LICENSE)
+
+---
+
+> _"When your IDE feels like a temple, your code becomes poetry."_
+> – **Shaant Shakti**

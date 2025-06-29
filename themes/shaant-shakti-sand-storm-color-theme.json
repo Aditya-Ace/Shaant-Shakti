@@ -1,0 +1,92 @@
+{
+  "name": "Shaant Shakti Sand Storm",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "colors": {
+    "editor.background": "#181614",
+    "editor.foreground": "#E8DCCB",
+    "editorLineNumber.foreground": "#7A665B",
+    "editorCursor.foreground": "#D07C5B",
+    "editor.lineHighlightBackground": "#2B1F1A",
+    "editor.selectionBackground": "#402C2C",
+    "editor.inactiveSelectionBackground": "#402C2C88",
+    "editorIndentGuide.background1": "#3A3C26",
+    "editorIndentGuide.activeBackground1": "#D07C5B",
+    "sideBar.background": "#191311",
+    "sideBar.foreground": "#D28BA1",
+    "sideBarSectionHeader.background": "#191311",
+    "sideBarSectionHeader.foreground": "#D07C5B",
+    "activityBar.background": "#201713",
+    "activityBar.foreground": "#D07C5B",
+    "activityBar.inactiveForeground": "#82685E",
+    "activityBarBadge.background": "#D07C5B",
+    "activityBarBadge.foreground": "#181614",
+    "titleBar.activeBackground": "#181614",
+    "titleBar.activeForeground": "#E8DCCB",
+    "titleBar.inactiveBackground": "#18161488",
+    "titleBar.inactiveForeground": "#9C8779",
+    "statusBar.background": "#181614",
+    "statusBar.foreground": "#D07C5B",
+    "statusBar.debuggingBackground": "#D07C5B",
+    "statusBar.debuggingForeground": "#181614",
+    "statusBar.noFolderBackground": "#181614",
+    "statusBar.noFolderForeground": "#D07C5B"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block.documentation"
+      ],
+      "settings": {
+        "foreground": "#8D6E63",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["keyword", "storage.type"],
+      "settings": {
+        "foreground": "#D07C5B",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["string", "constant.other.symbol"],
+      "settings": {
+        "foreground": "#E8DCCB"
+      }
+    },
+    {
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "#FFCC80"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#D07C5B"
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#A1887F"
+      }
+    },
+    {
+      "scope": "punctuation.separator",
+      "settings": {
+        "foreground": "#D7CCC8"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#FF1744",
+        "fontStyle": "italic underline"
+      }
+    }
+  ]
+}
