@@ -1,6 +1,7 @@
 {
   "name": "Shaant Shakti",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "editor.background": "#0B0C10",
     "editor.foreground": "#F8F8F2",
@@ -66,7 +67,17 @@
     "gitDecoration.addedResourceForeground": "#98C379",
     "gitDecoration.modifiedResourceForeground": "#E5C07B",
     "gitDecoration.deletedResourceForeground": "#E06C75",
-    "gitDecoration.untrackedResourceForeground": "#56B6C2"
+    "gitDecoration.untrackedResourceForeground": "#56B6C2",
+    "editor.selectionHighlightBackground": "#3E445150",
+    "editor.wordHighlightBackground": "#3E445130",
+    "editor.wordHighlightStrongBackground": "#3E445160",
+    "editor.lineHighlightBorder": "#3E445150",
+    "editorBracketMatch.border": "#C678DD",
+    "list.hoverForeground": "#FFFFFF",
+    "tab.hoverBackground": "#1c1f26",
+    "activityBar.activeBorder": "#C678DD",
+    "sideBarSectionHeader.border": "#1c1f26",
+    "editorGroup.border": "#1c1f2633"
   },
   "tokenColors": [
     {
@@ -233,6 +244,40 @@
     {
       "scope": ["markup.italic.markdown"],
       "settings": { "foreground": "#C678DD", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["storage", "storage.modifier"],
+      "settings": {
+        "foreground": "#C678DD",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "scope": ["entity.name.function.constructor"],
+      "settings": {
+        "foreground": "#E5C07B",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["support.variable", "support.constant"],
+      "settings": {
+        "foreground": "#56B6C2",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "variable.other.constant",
+      "settings": {
+        "foreground": "#D19A66",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "meta.embedded, source.groovy.embedded, string.template",
+      "settings": {
+        "foreground": "#98C379"
+      }
     }
   ]
 }

@@ -41,6 +41,14 @@ A spiritually inspired **dark theme** that balances _inner peace_ with _raw codi
 
 ## 🛠 Recommended Settings
 
+### Suggested Fonts
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+Make sure `"editor.fontLigatures": true` is enabled in your VS Code settings.
+
 ```json
   "editor.fontSize": 15,
   "editor.letterSpacing": 0.5,
