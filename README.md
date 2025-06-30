@@ -47,6 +47,10 @@ The desert soul — dry winds, faded trails, and rugged clarity. This theme chan
 
 ![Sand Storm Preview](images/sand.png)
 
+### SPFx Sanctuary
+
+![SPFx Sanctuary Preview](images/spfx.png)
+
 ---
 
 ## 📦 Installation
