@@ -72,7 +72,7 @@ Enhanced with font ligatures and elegant italics, this theme captures the magica
 ### Spirited Away
 
 ![Spirited Away Preview](images/spirited-away.png)
-![Spirited Away Inspired From Preview](images/spirited-original.png)
+![Spirited Away Inspired From Preview](images/spirited-original.jpg)
 
 ---
 
