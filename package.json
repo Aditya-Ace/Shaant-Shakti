@@ -2,7 +2,7 @@
   "name": "shaant-shakti-color-theme",
   "displayName": "Shaant Shakti - Spiritual Dark Theme for Focused Coding",
   "description": "A spiritually inspired dark theme balancing inner peace and raw coding power. Shaant Shakti keeps you grounded, focused, and creatively fierce.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "shaant-shakti",
   "engines": {
     "vscode": "^1.101.0"
@@ -41,6 +41,16 @@
         "label": "Shaant Shakti: SPFx Sanctuary",
         "uiTheme": "vs-dark",
         "path": "./themes/shaant-shakti-spfx-color-theme.json"
+      },
+      {
+        "label": "Shaant Shakti: Himalaya Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shaant-shakti-himalaya-mist-color-theme.json"
+      },
+      {
+        "label": "Shaant Shakti: Forest Spirit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shaant-shakti-forest-spirit-color-theme.json"
       }
     ]
   },
